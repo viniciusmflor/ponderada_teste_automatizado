@@ -39,7 +39,7 @@ pip install requests
 
 ### Executando o Teste
 ```bash
-python testes/api/test_api.py
+python testes/test-front/test_front.py
 ```
 
 Os resultados serão exibidos no console e também salvos em formato Markdown na pasta `testes/resultados/`. 
